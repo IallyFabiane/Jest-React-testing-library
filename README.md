@@ -2,6 +2,6 @@
 
 Testes automatizados com Jest e React Testing Library 
 <div style="display: inline_block"><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-  <img src="https://testing-library.com/img/octopus-64x64.png" />
+  <img align="center" alt="Jest" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img align="center" alt="Testing Library" height="30" width="40"  src="https://testing-library.com/img/octopus-64x64.png" />
 </div>
